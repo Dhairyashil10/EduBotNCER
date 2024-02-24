@@ -1,4 +1,4 @@
-# Chat with a NCER college Website []  - LangChain Chatbot with Streamlit GUI
+# Chat with a NCER college Website [EduBotNCER]  - LangChain Chatbot with Streamlit GUI
 
 ## Features
 - **Website Interaction**: The chatbot uses the latest version of LangChain to interact with and extract information from various websites.
