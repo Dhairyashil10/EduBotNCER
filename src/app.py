@@ -11,7 +11,7 @@ from langchain.chains import create_history_aware_retriever, create_retrieval_ch
 from langchain.chains.combine_documents import create_stuff_documents_chain
 
 
-load_dotenv()
+load_dotenv() # load openai key 
 
 # Specify the website URL here
 website_url = "https://www.ncerpune.in/sitemap.xml"
